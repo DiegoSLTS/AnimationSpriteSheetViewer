@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+.vs/
+Debug/
+Release/
+SpriteSheet.suo
+SpriteSheet/SDL2_image-2.0.0/
+SpriteSheet/SDL2-2.0.3/
